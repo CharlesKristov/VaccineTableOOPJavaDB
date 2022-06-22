@@ -8,7 +8,7 @@ Nama Vaksin, Harga Vaksin dan Stok Vaksin.
 #### 2440062924 - Charles Christopher
 #### 2440046984 - Elliot Lie Arifin
 
-Operasi yang bisa dilakukan pada program ini adalah :
+## Operasi yang bisa dilakukan pada program ini adalah :
 
 ### 1. Add Vaccine 
 dengan generate random ID, Nama Vaksin, Harga Vaksin dan Stok Vaksinnya. Setelah itu, membuat sebuah objek untuk penjelasan melalui factory yang telah dibuat berdasarkan Harga Vaksin yang diinput pengguna. Lalu menampilkan informasi apakah vaksin tergolong murah atau mahal berdasarkan harganya, jika >50.000 termasuk golongan mahal yang diambil dari hasil pembuatan objek di factory.
