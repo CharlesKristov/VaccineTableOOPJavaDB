@@ -4,9 +4,9 @@ Project ini adalah sebuah program Java GUI untuk menampilkan
 Nama Vaksin, Harga Vaksin dan Stok Vaksin.
 
 ## Kelompok 22
-2440030241 - Reynald Slamat Putra
-2440062924 - Charles Christopher
-2440046984 - Elliot Lie Arifin
+#### 2440030241 - Reynald Slamat Putra
+#### 2440062924 - Charles Christopher
+#### 2440046984 - Elliot Lie Arifin
 
 Operasi yang bisa dilakukan pada program ini adalah :
 
